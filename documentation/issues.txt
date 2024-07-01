@@ -1,0 +1,18 @@
+
+29/06/2023
+
+1.Dbeaver connection with Docker container
+ -username,password setups
+
+fatal password for user 'postgres'
+
+system info
+
+OS:windows 10
+db tool: dbeaver
+docker-image: postgres
+pgdriver
+
+
+2.Middleware to run Flask application can't run due to difference in operating system
+change from gunicorn to waitress instead

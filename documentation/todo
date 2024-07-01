@@ -1,0 +1,14 @@
+
+
+backend 
+
+Set up/config
+
+1.Docker container 
+Postgresql and use DBeaver for database/SQL editor.
+2.Config for the database and establish connection with postgresql
+
+middleware config
+ 
+3.set up nginx server using docker container
+
